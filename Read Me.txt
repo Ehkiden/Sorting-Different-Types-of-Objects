@@ -1,0 +1,5 @@
+Good example of:
+Bubble sort algthm
+Reading from a file
+Implementation of a Clock in the program
+Sorting objects of different types 
